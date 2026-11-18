@@ -3,4 +3,4 @@ design
 pengembangan
 tools yang difunakan
 bahasa
-database
+database mysql
